@@ -1,0 +1,99 @@
+/mnt/hdd/university/REST API/REST API/obj/Debug/net8.0/REST API.csproj.AssemblyReference.cache
+/mnt/hdd/university/REST API/REST API/obj/Debug/net8.0/REST API.GeneratedMSBuildEditorConfig.editorconfig
+/mnt/hdd/university/REST API/REST API/obj/Debug/net8.0/REST API.AssemblyInfoInputs.cache
+/mnt/hdd/university/REST API/REST API/obj/Debug/net8.0/REST API.AssemblyInfo.cs
+/mnt/hdd/university/REST API/REST API/obj/Debug/net8.0/REST API.csproj.CoreCompileInputs.cache
+/mnt/hdd/university/REST API/REST API/obj/Debug/net8.0/REST API.MvcApplicationPartsAssemblyInfo.cache
+/mnt/hdd/university/REST API/REST API/bin/Debug/net8.0/appsettings.Development.json
+/mnt/hdd/university/REST API/REST API/bin/Debug/net8.0/appsettings.json
+/mnt/hdd/university/REST API/REST API/bin/Debug/net8.0/REST API
+/mnt/hdd/university/REST API/REST API/bin/Debug/net8.0/REST API.deps.json
+/mnt/hdd/university/REST API/REST API/bin/Debug/net8.0/REST API.runtimeconfig.json
+/mnt/hdd/university/REST API/REST API/bin/Debug/net8.0/REST API.dll
+/mnt/hdd/university/REST API/REST API/bin/Debug/net8.0/REST API.pdb
+/mnt/hdd/university/REST API/REST API/bin/Debug/net8.0/Humanizer.dll
+/mnt/hdd/university/REST API/REST API/bin/Debug/net8.0/Microsoft.Bcl.AsyncInterfaces.dll
+/mnt/hdd/university/REST API/REST API/bin/Debug/net8.0/Microsoft.CodeAnalysis.dll
+/mnt/hdd/university/REST API/REST API/bin/Debug/net8.0/Microsoft.CodeAnalysis.CSharp.dll
+/mnt/hdd/university/REST API/REST API/bin/Debug/net8.0/Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+/mnt/hdd/university/REST API/REST API/bin/Debug/net8.0/Microsoft.CodeAnalysis.Workspaces.dll
+/mnt/hdd/university/REST API/REST API/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.dll
+/mnt/hdd/university/REST API/REST API/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+/mnt/hdd/university/REST API/REST API/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.Design.dll
+/mnt/hdd/university/REST API/REST API/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.Relational.dll
+/mnt/hdd/university/REST API/REST API/bin/Debug/net8.0/Microsoft.Extensions.DependencyModel.dll
+/mnt/hdd/university/REST API/REST API/bin/Debug/net8.0/Mono.TextTemplating.dll
+/mnt/hdd/university/REST API/REST API/bin/Debug/net8.0/Npgsql.dll
+/mnt/hdd/university/REST API/REST API/bin/Debug/net8.0/Npgsql.EntityFrameworkCore.PostgreSQL.dll
+/mnt/hdd/university/REST API/REST API/bin/Debug/net8.0/System.CodeDom.dll
+/mnt/hdd/university/REST API/REST API/bin/Debug/net8.0/System.Composition.AttributedModel.dll
+/mnt/hdd/university/REST API/REST API/bin/Debug/net8.0/System.Composition.Convention.dll
+/mnt/hdd/university/REST API/REST API/bin/Debug/net8.0/System.Composition.Hosting.dll
+/mnt/hdd/university/REST API/REST API/bin/Debug/net8.0/System.Composition.Runtime.dll
+/mnt/hdd/university/REST API/REST API/bin/Debug/net8.0/System.Composition.TypedParts.dll
+/mnt/hdd/university/REST API/REST API/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.resources.dll
+/mnt/hdd/university/REST API/REST API/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.resources.dll
+/mnt/hdd/university/REST API/REST API/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.resources.dll
+/mnt/hdd/university/REST API/REST API/bin/Debug/net8.0/fr/Microsoft.CodeAnalysis.resources.dll
+/mnt/hdd/university/REST API/REST API/bin/Debug/net8.0/it/Microsoft.CodeAnalysis.resources.dll
+/mnt/hdd/university/REST API/REST API/bin/Debug/net8.0/ja/Microsoft.CodeAnalysis.resources.dll
+/mnt/hdd/university/REST API/REST API/bin/Debug/net8.0/ko/Microsoft.CodeAnalysis.resources.dll
+/mnt/hdd/university/REST API/REST API/bin/Debug/net8.0/pl/Microsoft.CodeAnalysis.resources.dll
+/mnt/hdd/university/REST API/REST API/bin/Debug/net8.0/pt-BR/Microsoft.CodeAnalysis.resources.dll
+/mnt/hdd/university/REST API/REST API/bin/Debug/net8.0/ru/Microsoft.CodeAnalysis.resources.dll
+/mnt/hdd/university/REST API/REST API/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.resources.dll
+/mnt/hdd/university/REST API/REST API/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.resources.dll
+/mnt/hdd/university/REST API/REST API/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.resources.dll
+/mnt/hdd/university/REST API/REST API/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.CSharp.resources.dll
+/mnt/hdd/university/REST API/REST API/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.CSharp.resources.dll
+/mnt/hdd/university/REST API/REST API/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.CSharp.resources.dll
+/mnt/hdd/university/REST API/REST API/bin/Debug/net8.0/fr/Microsoft.CodeAnalysis.CSharp.resources.dll
+/mnt/hdd/university/REST API/REST API/bin/Debug/net8.0/it/Microsoft.CodeAnalysis.CSharp.resources.dll
+/mnt/hdd/university/REST API/REST API/bin/Debug/net8.0/ja/Microsoft.CodeAnalysis.CSharp.resources.dll
+/mnt/hdd/university/REST API/REST API/bin/Debug/net8.0/ko/Microsoft.CodeAnalysis.CSharp.resources.dll
+/mnt/hdd/university/REST API/REST API/bin/Debug/net8.0/pl/Microsoft.CodeAnalysis.CSharp.resources.dll
+/mnt/hdd/university/REST API/REST API/bin/Debug/net8.0/pt-BR/Microsoft.CodeAnalysis.CSharp.resources.dll
+/mnt/hdd/university/REST API/REST API/bin/Debug/net8.0/ru/Microsoft.CodeAnalysis.CSharp.resources.dll
+/mnt/hdd/university/REST API/REST API/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.CSharp.resources.dll
+/mnt/hdd/university/REST API/REST API/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.resources.dll
+/mnt/hdd/university/REST API/REST API/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.resources.dll
+/mnt/hdd/university/REST API/REST API/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/mnt/hdd/university/REST API/REST API/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/mnt/hdd/university/REST API/REST API/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/mnt/hdd/university/REST API/REST API/bin/Debug/net8.0/fr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/mnt/hdd/university/REST API/REST API/bin/Debug/net8.0/it/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/mnt/hdd/university/REST API/REST API/bin/Debug/net8.0/ja/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/mnt/hdd/university/REST API/REST API/bin/Debug/net8.0/ko/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/mnt/hdd/university/REST API/REST API/bin/Debug/net8.0/pl/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/mnt/hdd/university/REST API/REST API/bin/Debug/net8.0/pt-BR/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/mnt/hdd/university/REST API/REST API/bin/Debug/net8.0/ru/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/mnt/hdd/university/REST API/REST API/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/mnt/hdd/university/REST API/REST API/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/mnt/hdd/university/REST API/REST API/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/mnt/hdd/university/REST API/REST API/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/mnt/hdd/university/REST API/REST API/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/mnt/hdd/university/REST API/REST API/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/mnt/hdd/university/REST API/REST API/bin/Debug/net8.0/fr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/mnt/hdd/university/REST API/REST API/bin/Debug/net8.0/it/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/mnt/hdd/university/REST API/REST API/bin/Debug/net8.0/ja/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/mnt/hdd/university/REST API/REST API/bin/Debug/net8.0/ko/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/mnt/hdd/university/REST API/REST API/bin/Debug/net8.0/pl/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/mnt/hdd/university/REST API/REST API/bin/Debug/net8.0/pt-BR/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/mnt/hdd/university/REST API/REST API/bin/Debug/net8.0/ru/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/mnt/hdd/university/REST API/REST API/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/mnt/hdd/university/REST API/REST API/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/mnt/hdd/university/REST API/REST API/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/mnt/hdd/university/REST API/REST API/obj/Debug/net8.0/staticwebassets.build.json
+/mnt/hdd/university/REST API/REST API/obj/Debug/net8.0/staticwebassets.development.json
+/mnt/hdd/university/REST API/REST API/obj/Debug/net8.0/staticwebassets/msbuild.REST API.Microsoft.AspNetCore.StaticWebAssets.props
+/mnt/hdd/university/REST API/REST API/obj/Debug/net8.0/staticwebassets/msbuild.build.REST API.props
+/mnt/hdd/university/REST API/REST API/obj/Debug/net8.0/staticwebassets/msbuild.buildMultiTargeting.REST API.props
+/mnt/hdd/university/REST API/REST API/obj/Debug/net8.0/staticwebassets/msbuild.buildTransitive.REST API.props
+/mnt/hdd/university/REST API/REST API/obj/Debug/net8.0/staticwebassets.pack.json
+/mnt/hdd/university/REST API/REST API/obj/Debug/net8.0/scopedcss/bundle/REST API.styles.css
+/mnt/hdd/university/REST API/REST API/obj/Debug/net8.0/REST API.csproj.CopyComplete
+/mnt/hdd/university/REST API/REST API/obj/Debug/net8.0/REST API.dll
+/mnt/hdd/university/REST API/REST API/obj/Debug/net8.0/refint/REST API.dll
+/mnt/hdd/university/REST API/REST API/obj/Debug/net8.0/REST API.pdb
+/mnt/hdd/university/REST API/REST API/obj/Debug/net8.0/REST API.genruntimeconfig.cache
+/mnt/hdd/university/REST API/REST API/obj/Debug/net8.0/ref/REST API.dll
